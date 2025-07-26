@@ -10,7 +10,7 @@ Aplicación iOS desarrollada con SwiftUI que permite mostrar una tarjeta de pres
 - Formulario de contacto con campos básicos.
 - Estilo visual simple y funcional.
 - Enfocado para práctica de UI básica.
-- 
+  
 ## 🧰 Tecnologías utilizadas
 
 - Swift 5
